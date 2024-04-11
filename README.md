@@ -32,7 +32,7 @@ Analysis is performed on the dataset, focusing on the top 5 clients by quantity.
 
 ### Repository Files
 - `client_dataset.csv`: The dataset used for analysis.
-- `analysis.ipynb`: Jupyter Notebook containing the Python code for the analysis.
+- `module_4_challenge.ipynb`: Jupyter Notebook containing the Python code for the analysis.
 - `README.md`: This README file providing an overview of the analysis process.
 
 ## Instructions

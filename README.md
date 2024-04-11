@@ -39,7 +39,7 @@ Analysis is performed on the dataset, focusing on the top 5 clients by quantity.
 
 1. Ensure Python and Jupyter Notebook are installed on your system.
 2. Clone this repository to your local machine.
-3. Open the Jupyter Notebook `analysis.ipynb`.
+3. Open the Jupyter Notebook `module_4_challenge.ipynb`.
 4. Follow the instructions and execute the code cells in sequence to perform the analysis.
 
 ## Credits 

@@ -42,5 +42,7 @@ Analysis is performed on the dataset, focusing on the top 5 clients by quantity.
 3. Open the Jupyter Notebook `analysis.ipynb`.
 4. Follow the instructions and execute the code cells in sequence to perform the analysis.
 
+## Credits 
+This code was written by [Richard Lankford](https://github.com/rwlankford/pandas-challenge-1) with assistance and review from **Rimi Sharma** and **Tyler B. Shubert**
 
 

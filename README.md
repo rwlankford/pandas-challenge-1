@@ -22,11 +22,11 @@ The data is transformed to prepare it for analysis. This includes:
 
 ## Part 3: Confirm Your Work
 
-In this part, the calculated total prices are confirmed against provided email receipts.
+In this part, the calculated total prices are confirmed against provided Order IDs.
 
 ## Part 4: Summarize and Analyze
 
-Analysis is performed on the dataset, focusing on the top 5 clients by quantity. This includes:
+Analysis is performed on the dataset, focusing on the top 5 clients by quantity defined in Part 1. This includes:
 - Determining the total spend for each of the top 5 clients
 - Creating a summary DataFrame showing total units purchased, total shipping price, total revenue, and total profit for the top 5 clients, sorted by total profit. The data is formatted for presentation.
 
@@ -43,6 +43,6 @@ Analysis is performed on the dataset, focusing on the top 5 clients by quantity.
 4. Follow the instructions and execute the code cells in sequence to perform the analysis.
 
 ## Credits 
-This code was written by [Richard Lankford](https://github.com/rwlankford/pandas-challenge-1) with assistance and review from **Rimi Sharma** and **Tyler B. Shubert**
+This code was written by [Richard Lankford](https://github.com/rwlankford/pandas-challenge-1) with assistance and review from **Rimi Sharma**, **Ryan Norman** and **Tyler B. Shubert**
 
 
